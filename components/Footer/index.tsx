@@ -45,8 +45,8 @@ const FooterLink: React.FC<IFooterLink &
         <a
           target="_blank"
           rel="noopener noreferrer"
-          href="https://twitter.com/code_wonders"
-          aria-label="Go To Adenekan Wonderful Twitter Page"
+          href="https://twitter.com/paulgrimaldob"
+          aria-label="Go To Paul Grimaldo Twitter Page"
           title="Twitter Page"
         >
           <Twitter />
@@ -54,8 +54,8 @@ const FooterLink: React.FC<IFooterLink &
         <a
           target="_blank"
           rel="noopener noreferrer"
-          href="https://www.facebook.com/AdenekanWonderful"
-          aria-label="Go To Adenekan Wonderful Facebook Page"
+          href="https://www.facebook.com/paulfernando.grimaldo"
+          aria-label="Go To Paul Grimaldo Facebook Page"
           title="Facebook Page"
         >
           <Facebook />
@@ -63,8 +63,8 @@ const FooterLink: React.FC<IFooterLink &
         <a
           target="_blank"
           rel="noopener noreferrer"
-          href="https://linkedin.com/in/codewonders"
-          aria-label="Go To Adenekan Wonderful Linkedin Page"
+          href="https://www.linkedin.com/in/paul-grimaldo/"
+          aria-label="Go To Paul Grimaldo Linkedin Page"
           title="Linkedin Page"
         >
           <Linkedin />
@@ -72,8 +72,8 @@ const FooterLink: React.FC<IFooterLink &
         <a
           target="_blank"
           rel="noopener noreferrer"
-          href="https://github.com/adenekan41"
-          aria-label="Go To Adenekan Wonderful Github Page"
+          href="https://github.com/paulgrimaldo"
+          aria-label="Go To Paul Grimaldo Github Page"
           title="Github Page"
         >
           <Github />
@@ -81,17 +81,8 @@ const FooterLink: React.FC<IFooterLink &
         <a
           target="_blank"
           rel="noopener noreferrer"
-          href="https://dribbble.com/codewonders"
-          aria-label="Go To Adenekan Wonderful Dribble Page"
-          title="Dribbble Page"
-        >
-          <Dribble />
-        </a>
-        <a
-          target="_blank"
-          rel="noopener noreferrer"
-          href="https://instagram.com/codewonders"
-          aria-label="Go To Adenekan Wonderful Instagram Page"
+          href="https://www.instagram.com/paul_grimaldo_/"
+          aria-label="Go To Paul Grimaldo Instagram Page"
           title="Instagram Page"
         >
           <Instagram />

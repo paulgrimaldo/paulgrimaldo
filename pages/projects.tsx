@@ -59,7 +59,6 @@ const Projects = () => {
                 )}
               </MansoryLayout>
             </TabItems>
-            <TabItems label="Designs" href="https://dribbble.com/codewonders" />
           </Tabs>
         </PageWrapper>
       </PageSection>

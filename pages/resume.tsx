@@ -13,7 +13,7 @@ import FooterLink from '../components/Footer';
 
 const Resume = () => {
   const resumeData =
-    'https://www.canva.com/design/DAEEkidwA2Q/view?utm_content=DAEEkidwA2Q&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink';
+    'https://www.canva.com/design/DAF1r3UY2Oc/oRQr6iXCfckZCxnicNQyiQ/view?utm_content=DAF1r3UY2Oc&utm_campaign=designshare&utm_medium=link&utm_source=editor';
 
   const previewData = `${resumeData.substr(
     0,
@@ -34,7 +34,7 @@ const Resume = () => {
               .{' '}
               <b>
                 <a
-                  href={`https://drive.google.com/file/d/${process.env.NEXT_PUBLIC_RESUME_LINK}/view?usp=sharing`}
+                  href={`https://drive.google.com/file/d/1jOisFRkpx635001d3QFhPi-6_YRlC674/view?usp=drive_link`}
                   target="_blank"
                   rel="noopener noreferrer"
                   aria-label="Go to Resumé Page"
@@ -45,7 +45,7 @@ const Resume = () => {
               or{' '}
               <b>
                 <a
-                  href={`https://drive.google.com/file/d/${process.env.NEXT_PUBLIC_RESUME_LINK}/view?usp=sharing`}
+                  href={`https://drive.google.com/file/d/1jOisFRkpx635001d3QFhPi-6_YRlC674/view?usp=drive_link`}
                   target="_blank"
                   rel="noopener noreferrer"
                   aria-label="Go to Resumé Page"
@@ -62,7 +62,7 @@ const Resume = () => {
             allowFullScreen
             width="740"
             height="780"
-            title="Adenekan Wonderful Resumé"
+            title="Paul Grimaldo Resumé"
           />
         </PageSection>
         <br />
